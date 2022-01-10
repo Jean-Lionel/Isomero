@@ -1,0 +1,72 @@
+ ☐ TODO 
+
+ Python Numbers
+There are three numeric types in Python:
+
+Numeric Types:   int, float, complex
+
+__Text Type:   str__
+
+Sequence Types:   list, tuple, range\
+
+Boolean Type:   bool 
+
+{
+  VRAI : True , true, 
+  FAUX : False ,false 
+}
+
+
+Mapping Type:   dict
+Set Types:   set, frozenset
+
+Binary Types:   bytes, bytearray, memoryview
+1 . LES NOMBRES
+2.  CA
+
+
+    int
+    float
+    complex
+
+x = 1    # int
+y = 2.8  # float
+z = 1j   # complex
+
+print(type(x))
+print(type(y))
+print(type(z))
+ ☐ __INT__
+x = 1
+y = 35656222554887711
+z = -3255522
+
+print(type(x))
+print(type(y))
+print(type(z)) 
+
+ ☐ __FLOAT__
+
+x = 1.10
+y = 1.0
+z = -35.59
+
+print(type(x))
+print(type(y))
+print(type(z)) 
+
+x = 35e3
+y = 12E4
+z = -87.7e100
+
+ ☐ __COMPLEX__
+
+ Complex:
+
+x= 3+5j @done (22-01-07 19:02)
+y = 5j
+z = -5j
+
+print(type(x))
+print(type(y))
+print(type(z)) 
