@@ -24,6 +24,9 @@
 
 #     print("===============")
 
+for i, j in enumerate(range(10, 2, -1)):
+    print(f"A la position {i} il y a l'element {j}")
+
 
 """
 *
