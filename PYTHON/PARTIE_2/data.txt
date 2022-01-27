@@ -1,0 +1,4 @@
+Pays#Capitale#Continent
+Afghanistan#Kaboul#Asie
+Afrique du Sud#Pretoria#Afrique
+Albanie#Tirana#Europe
